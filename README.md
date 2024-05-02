@@ -1,2 +1,2 @@
 # 2014-Global-Power-Consumption
-Data analysis and exploration of 2014 Global Power Consumption data, utilizing choropleth mapping.
+Quick data visualization of 2014 Global Power Consumption data utilizing choropleth mapping for practice.
